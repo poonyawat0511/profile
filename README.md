@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poonyawat0511&label=Profile%20views&color=0e75b6&style=flat" alt="poonyawat0511" /> </p>
 
-- 🔭 I’m currently working on [cafe-management](https://github.com/poonyawat0511/cafe-management)
+- 🔭 This is my 1st project: [cafe-management](https://github.com/poonyawat0511/cafe-management)
 
-- 👯 I’m looking to collaborate on [mywallet](https://github.com/poonyawat0511/mywallet)
+- 👯 This is my 2nd project: [mywallet](https://github.com/poonyawat0511/mywallet)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
